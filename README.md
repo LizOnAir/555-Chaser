@@ -1,6 +1,9 @@
 # 555-Chaser
 I made this project to learn about analog sensors.
 
+<img width="3024" height="4032" alt="Blinky" src="https://github.com/user-attachments/assets/dedba5e3-f594-4571-b4a6-3b8b19c564e7" />
+
+
 ## Feature
 A butterfly shape PCB board that have 10 LEDs.
 
